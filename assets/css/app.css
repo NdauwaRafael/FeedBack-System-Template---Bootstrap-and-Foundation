@@ -1,0 +1,43 @@
+html, body {
+    height:100%;
+}
+#banner {
+  height: 90% !important;
+  background: url("../img/home_banner.jpeg");
+  background-size:     cover;
+  background-repeat:   no-repeat;
+  background-position: center center;
+  margin-top: -20px;
+}
+
+#feedback {
+  background-color: #eeeeee;
+  margin-top: 30px;
+  padding: 15px;
+}
+
+#feedback hr{
+  color: red;
+  size: 2px;
+}
+
+#about {
+  text-align: center;
+}
+
+#front {
+  text-align: center;
+  padding-top: 20%;
+}
+
+#contacts {
+  background: url("../img/contacts.jpg");
+  background-size:     cover;
+  background-repeat:   no-repeat;
+  background-position: center center;
+}
+
+#contacts #wrapper{
+  padding-top: 20px;
+  background: rgba(0,0,0, 0.7) !important;
+}
